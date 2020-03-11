@@ -10,11 +10,11 @@ img {
 }
 
 .div-images {
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 
 #original-img {
-  visibility: hidden;
+  /* visibility: hidden; */
 }
 
 #flipped-img {
